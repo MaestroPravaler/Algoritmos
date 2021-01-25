@@ -19,12 +19,10 @@ Estudos sistematizados sobre algoritmos.
 6. [Heap]()
 7. [Hash Tables]()
 
-## [HEURÍSTICAS E TÉCNICAS]()
-1. [Two Pointers]()
+## [HEURÍSTICAS E TÉCNICAS](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS)
+1. [Two Pointers](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/01_Two_Pointers)
 2. [Window Sliding]()
 3. [Fast & Slow Pointers]()
 4. [Breadth First Search]()
 5. [Deep First Search]()
 6. [Dynamic Programing]()
-
-## [DESAFIOS]() 
