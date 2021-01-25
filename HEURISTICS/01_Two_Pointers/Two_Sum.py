@@ -1,6 +1,6 @@
-# A solucao deve estar implementada dentro da função abaixo.
-# Dica: Você pode criar outras funções e classes se quiser mas esta é a função principal que será usada.
-
+# =============================== DESAFIO ================================================ 
+# Buscar em um conjunto de dados dois números que se somados retornem um número específico.
+# Dados referentes ao Desafio
 numbers = [4, 1, 2, -2, 11, 15, 1, -1, -6, -4]
 target_sum = 9
 resposta = [-2, 11] #==> -2 + 11 = 9
