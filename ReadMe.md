@@ -10,19 +10,16 @@ Estudos sistematizados sobre algoritmos.
 
 ![](./assets/images/big_o.png)
 
-## [ESTRUTURA DE DADOS]()
-1. [Arrays]()
-2. [Strings]()
-3. [Linked List]()
-4. [Stacks]()
-5. [Binary Tree]()
-6. [Heap]()
-7. [Hash Tables]()
-
 ## [HEURÍSTICAS E TÉCNICAS](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS)
 1. [Two Pointers](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/01_Two_Pointers)
-2. [Window Sliding]()
-3. [Fast & Slow Pointers]()
-4. [Breadth First Search]()
-5. [Deep First Search]()
-6. [Dynamic Programing]()
+2. [Window Sliding](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/02_Window_Sleding)
+3. [Fast & Slow Pointers](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/03_Fast_Slow_Pointers)
+4. [Breadth First Search](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/04_Breadth_First_Search)
+5. [Deep First Search](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/05_Deep_First_Search)
+6. [Dynamic Programing](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/06_Dynamic_Programing)
+
+### Resolução dos desafios utiliando o [ELIXIR](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/desafios_elixir/)
+
+## [Agradecimentos Especiais]
+Ao Tiago Brito e seu projeto [AlgoMania](https://algomania.com.br/) por compartilhar seus conhecimentos de forma simples e eficaz e permitir a divulgação deste conteúdo.
+![](./assets/images/logo_algo.png)
