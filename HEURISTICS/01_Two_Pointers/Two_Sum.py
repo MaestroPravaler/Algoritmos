@@ -13,7 +13,6 @@ def solution(numbers, target_sum):
         for j in range(i + 1, len(numbers)):
             second = numbers[j]
             if first + second == target_sum:
-                print(first, second)
                 return [first, second]
     return []
 
