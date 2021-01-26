@@ -14,3 +14,8 @@ Entrada:
 
 Resultado: 6
 """
+defmodule Solution do
+  def main do
+
+  end
+end

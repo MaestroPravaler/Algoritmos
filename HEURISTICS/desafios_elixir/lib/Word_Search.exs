@@ -15,3 +15,11 @@ Dada a palavra = "ABCCED", retorne true.
 Dada a palavra = "SEE", retorne true.
 Dada a palavra = "ABCB", retorne false.
 '''
+
+defmodule Solution do
+  def main do
+
+  end
+end
+
+  Solution.main

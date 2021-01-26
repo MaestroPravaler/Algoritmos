@@ -22,3 +22,8 @@ Deverá retornar:
 ]
 Estes são os caminhos que a soma total é igual a 22.
 '''
+defmodule Solution do
+   def main do
+
+   end
+ end

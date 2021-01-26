@@ -3,3 +3,8 @@
 
 # numbers = [1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0], K = 2
 # Saída: 6
+defmodule Solution do
+  def main do
+
+  end
+end

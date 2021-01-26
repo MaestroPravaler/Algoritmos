@@ -4,3 +4,9 @@
 numbers = [4, 1, 2, -2, 11, 15, 1, -1, -6, -4]
 target_sum = 9
 resposta = [-2, 11] #==> -2 + 11 = 9
+
+defmodule Solution do
+  def main do
+
+  end
+end

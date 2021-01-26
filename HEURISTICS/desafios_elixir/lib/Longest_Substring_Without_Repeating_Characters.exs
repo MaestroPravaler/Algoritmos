@@ -2,3 +2,8 @@
 
 # Entrada: abcabcbb Saida: 3
 # Resposta: O valor encontrado é "abc", que tem o tamanho 3.
+defmodule Solution do
+  def main do
+
+  end
+end
