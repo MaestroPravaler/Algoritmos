@@ -1,5 +1,5 @@
 # [HEURÍSTICAS E TÉCNICAS (Desafios)](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS)
-Resolvidos e classificados quanto ao BIG_O em python.
+Resolvidos em Elixir.
 1. [Compare_Binary_Trees.exs](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/desafios_elixir/lib/Compare_Binary_Trees.exs)
 2. [Detect_Circular_Linked_List.exs](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/desafios_elixir/lib/Detect_Circular_Linked_List.exs)
 3. [Longest_Increasing_Path_In_A_Matrix.exs](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/desafios_elixir/lib/Longest_Increasing_Path_In_A_Matrix.exs)
