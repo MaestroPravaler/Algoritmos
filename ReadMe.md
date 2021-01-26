@@ -10,13 +10,19 @@ Estudos sistematizados sobre algoritmos.
 
 ![](./assets/images/bigo.png)
 
-## [HEURÍSTICAS E TÉCNICAS](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS)
-1. [Two Pointers](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/01_Two_Pointers)
-2. [Window Sliding](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/02_Window_Sleding)
-3. [Fast & Slow Pointers](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/03_Fast_Slow_Pointers)
-4. [Breadth First Search](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/04_Breadth_First_Search)
-5. [Deep First Search](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/05_Deep_First_Search)
-6. [Dynamic Programing](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/06_Dynamic_Programing)
+## [HEURÍSTICAS E TÉCNICAS (Desafios)](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS)
+Resolvidos e classificados quanto ao BIG_O em python.
+1. Compare_Binary_Trees.py
+2. Detect_Circular_Linked_List.py
+3. Longest_Increasing_Path_In_A_Matrix.py
+4. Longest_Substring_Without_Repeating_Characters.py
+5. Max_Consecutives_Ones.py
+6. Maximum_Path_Sum.py
+7. Minimum_Depth_Of_Binary_Tree.py
+8. Path_Sum_2.py
+9. Three_Sum.py
+10. Two_Sum.py
+11. Word_Search.py
 
 ### Resolução dos desafios utiliando o [ELIXIR](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/desafios_elixir/)
 
