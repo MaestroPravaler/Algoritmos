@@ -22,4 +22,5 @@ Estudos sistematizados sobre algoritmos.
 
 ## [Agradecimentos Especiais]
 Ao Tiago Brito e seu projeto [AlgoMania](https://algomania.com.br/) por compartilhar seus conhecimentos de forma simples e eficaz e permitir a divulgação deste conteúdo.
+
 ![](./assets/images/logoalgo.png)
