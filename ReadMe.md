@@ -8,7 +8,7 @@ Estudos sistematizados sobre algoritmos.
 5. [Tempo Expoencial O(2^n)](https://github.com/Robson-Maestro/Algoritmos/tree/master/BIG_O/05_Tempo_Expoencial.ipynb)
 6. [Tempo Fatorial O(n!)](https://github.com/Robson-Maestro/Algoritmos/tree/master/BIG_O/06_Tempo_Fatorial.ipynb)
 
-![](./assets/images/big_o.png)
+![](./assets/images/bigo.png)
 
 ## [HEURÍSTICAS E TÉCNICAS](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS)
 1. [Two Pointers](https://github.com/Robson-Maestro/Algoritmos/tree/master/HEURISTICS/01_Two_Pointers)
@@ -22,4 +22,4 @@ Estudos sistematizados sobre algoritmos.
 
 ## [Agradecimentos Especiais]
 Ao Tiago Brito e seu projeto [AlgoMania](https://algomania.com.br/) por compartilhar seus conhecimentos de forma simples e eficaz e permitir a divulgação deste conteúdo.
-![](./assets/images/logo_algo.png)
+![](./assets/images/logoalgo.png)
