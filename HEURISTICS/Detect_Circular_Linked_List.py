@@ -1,7 +1,11 @@
+# =============================== DESAFIO ================================================ 
 # Uma Linked List circular é uma lista em que um dos elementos se relacionam diretamente ou 
 # indiretamente entre si.
+# ========================================================================================
 
-# O(n) - O(1)
+# ======== Tempo: O(n) | Espaço: O(1) =============
+# ============= Lista Circular ====================
+
 def solution(linked_list):
     slow_pointer = linked_list.head()
     fast_pointer = slow_pointer
