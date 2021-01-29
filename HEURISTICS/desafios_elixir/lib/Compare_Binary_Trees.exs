@@ -4,7 +4,7 @@
 # identicas e os nós estiverem com o mesmo valor.
 # ========================================================================================
 
-  defmodule Solution do
+defmodule Solution do
   def main do
 
   end
